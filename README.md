@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi there, I'm Chandan 👋<br><br>🎓 Final-Year B.Tech Computer Science Engineering Student<br><br>💻 Passionate about Software Development, Java, and Full Stack Web Development.<br><br>🌱 Currently learning Data Structures & Algorithms, Backend Development, and Cloud Technologies.<br><br>🚀 I enjoy building real-world projects that solve practical problems.<br><br>🤝 Open to internships, collaborations, and open-source contributions.<br><br>📫 Reach me: mrchandangouda50@gmail.com
+Hi there, I'm Chandan 👋<br><br>🎓 Final-Year B.Tech Computer Science Engineering Student<br><br>💻 Passionate about Software Development, Java, and Full Stack Web Development.<br><br>🌱 Currently learning Data Structures & Algorithms, Backend Development, and Cloud Technologies.<br><br>🚀 I enjoy building real-world projects that solve practical problems.<br><br>🤝 Open to internships, collaborations, and open-source contributions.<br><br>📫 Reach me: mrchandangouda50@gmail.com
 
 
 ## 🌐 Socials:
