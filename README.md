@@ -1,121 +1,129 @@
-# 💫 About Me
+<!-- Animated Banner -->
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:6D28D9,25:7C3AED,50:4F46E5,75:2563EB,100:1E3A8A&text=Chandan%20Gouda&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20|%20Java%20Developer%20|%20Full%20Stack%20Developer&descAlignY=58"/>
+</p>
 
-Hi there! 👋 I'm **Chandan Gouda**
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=A855F7&center=true&vCenter=true&width=850&lines=Hi+%F0%9F%91%8B+I'm+Chandan+Gouda;Software+Engineer;Java+Backend+Developer;Full+Stack+Developer;Open+Source+Contributor;Always+Learning+New+Things"/>
+</p>
 
-🎓 B.Tech Computer Science Engineering Student
+# 👨‍💻 About Me
 
-💻 Passionate about **Software Development**, **Java**, **Backend Development**, and **Full Stack Web Development**.
+- 🎓 B.Tech Computer Science Engineering Student
+- 💻 Passionate about Software Development, Java, Backend Development & Full Stack Development
+- 🌱 Currently learning Data Structures & Algorithms, Spring Boot, React, Node.js and Cloud Technologies
+- 🚀 Building real-world applications that solve practical problems
+- 🤝 Open to internships, collaborations and open-source contributions
+- 🎯 Goal: Become a skilled Software Engineer by building impactful applications
 
-🌱 Currently learning **Data Structures & Algorithms**, **Spring Boot**, **React**, **Node.js**, and **Cloud Technologies**.
-
-🚀 I enjoy building real-world projects that solve practical problems and continuously improve my development skills.
-
-🤝 Open to internships, collaborations, and open-source contributions.
-
-📈 My goal is to become a skilled Software Engineer by building impactful applications and learning modern technologies.
-
-📫 **Email:** mrchandangouda50@gmail.com
+📫 **Email:** **mrchandangouda50@gmail.com**
 
 ---
 
 # 🌐 Connect With Me
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/chandan.gouda.581)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr_chandan_50)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chandan-gouda-677137305/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mrchandangouda50@gmail.com)
+<a href="https://www.linkedin.com/in/chandan-gouda-677137305/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/></a>
+<a href="https://instagram.com/mr_chandan_50"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://www.facebook.com/chandan.gouda.581"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook"/></a>
+<a href="mailto:mrchandangouda50@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
 ---
 
 # 💻 Tech Stack
 
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+### Frontend & Backend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
+### Database & Cloud
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+---
 
-![Apache Tomcat](https://img.shields.io/badge/Apache%20Tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+# 📚 Currently Learning
+
+```text
+Java DSA         ███████████████████░ 90%
+Spring Boot      ██████████████░░░░░░ 70%
+React            ██████████░░░░░░░░░░ 50%
+Docker           ███████░░░░░░░░░░░░░ 35%
+Cloud            █████░░░░░░░░░░░░░░░ 25%
+```
 
 ---
 
 # 🚀 Featured Projects
 
-### 📌 Complaint Management System
-A web-based complaint management system built using **Java, JSP, Servlets, and MySQL**, allowing users to register complaints while enabling administrators to manage and resolve them efficiently.
+| Project | Tech Stack | Status |
+|----------|------------|--------|
+| Complaint Management System | Java • JSP • Servlets • MySQL | ✅ Completed |
+| Job Description Decoder | Python • Flask • Gemini API | ✅ Completed |
+| Blood Donation Platform | MERN Stack | 🚧 In Progress |
 
 ---
 
-### 🤖 Job Description Decoder (AI)
-An AI-powered web application built with **Python, Flask, and Gemini API** that analyzes job descriptions, identifies required skills, and helps users evaluate their suitability for job roles.
+# 🏅 Certifications
 
 ---
 
-### 🩸 Blood Donation Platform *(Currently Building)*
-A MERN Stack application that connects blood donors with recipients based on their location, making emergency blood requests faster and more accessible.
+# 📊 GitHub Statistics
 
----
+<p align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=CHANDAN50-2005&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=CHANDAN50-2005&theme=tokyonight&hide_border=true"/>
+</p>
 
-# 🎯 Current Focus
-
-✔ Solving Data Structures & Algorithms Problems
-
-✔ Building Full Stack Projects
-
-✔ Learning Spring Boot
-
-✔ Exploring Cloud Technologies
-
-✔ Contributing to Open Source
-
----
-
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.shion.dev/api?username=CHANDAN50-2005&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false)
-
-![](https://streak-stats.demolab.com/?user=CHANDAN50-2005&theme=github_dark&hide_border=false)
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=CHANDAN50-2005&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<p align="center">
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHANDAN50-2005&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
 # 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=CHANDAN50-2005&theme=algolia&no-frame=true&no-bg=true&margin-w=10)
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=CHANDAN50-2005&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4"/>
+</p>
 
 ---
 
-# 📈 Top Contributed Repositories
+# 📈 GitHub Activity Graph
 
-![](https://github-contributor-stats.vercel.app/api?username=CHANDAN50-2005&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-
-# 💡 Favorite Quote
-
-> **"Consistency beats intensity. Small improvements every day lead to extraordinary results."**
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=CHANDAN50-2005&theme=tokyo-night"/>
 
 ---
 
-![](https://komarev.com/ghpvc/?username=CHANDAN50-2005&label=Profile%20Views&color=0e75b6&style=flat)
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/CHANDAN50-2005/CHANDAN50-2005/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=CHANDAN50-2005&label=Profile%20Views&color=8B5CF6&style=for-the-badge"/>
+</p>
+
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:1E3A8A,25:2563EB,50:4F46E5,75:7C3AED,100:6D28D9"/>
+</p>
