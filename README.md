@@ -59,18 +59,6 @@
 
 ---
 
-# 📚 Currently Learning
-
-```text
-Java DSA         ███████████████████░ 90%
-Spring Boot      ██████████████░░░░░░ 70%
-React            ██████████░░░░░░░░░░ 50%
-Docker           ███████░░░░░░░░░░░░░ 35%
-Cloud            █████░░░░░░░░░░░░░░░ 25%
-```
-
----
-
 # 🚀 Featured Projects
 
 | Project | Tech Stack | Status |
@@ -88,12 +76,12 @@ Cloud            █████░░░░░░░░░░░░░░░ 25
 # 📊 GitHub Statistics
 
 <p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=CHANDAN50-2005&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img width="49%" src="https://streak-stats.demolab.com?user=CHANDAN50-2005&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=CHANDAN50-2005&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+  <img height="170" src="https://streak-stats.demolab.com?user=CHANDAN50-2005&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHANDAN50-2005&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHANDAN50-2005&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
