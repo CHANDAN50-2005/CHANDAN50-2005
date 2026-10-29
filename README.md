@@ -61,11 +61,11 @@
 
 # 🚀 Featured Projects
 
-| Project | Tech Stack | Status |
-|----------|------------|--------|
-| Complaint Management System | Java • JSP • Servlets • MySQL | ✅ Completed |
-| Job Description Decoder | Python • Flask • Gemini API | ✅ Completed |
-| Blood Donation Platform | MERN Stack | 🚧 In Progress |
+| Project | Tech Stack |
+|----------|------------|
+| Complaint Management System | Java • JSP • Servlets • MySQL |
+| Job Description Decoder | Python • Flask • Gemini API |
+| Blood Donation Platform | MERN Stack |
 
 ---
 
